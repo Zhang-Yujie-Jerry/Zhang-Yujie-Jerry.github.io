@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yujiezhang.jpg"
+  avatar           : "Yzhang.png"
   name             : "Zhang Yujie"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Nanyang Technological University"
-  location         : "Earth"
+  location         : #
   employer         : "Red Brick University"
   uri              : # URL
   email            : "yujie.zhang@ntu.edu.sg" 
