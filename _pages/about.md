@@ -35,9 +35,11 @@ redirect_from:
 
 <div class="yz-custom">
 
-I am currently an Assistant Professor at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
+<p>I am currently an Assistant Professor at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.</p>
 
-I received my Bachelor’s degree in Optoelectronic Information Science and Engineering from Huazhong University of Science and Technology in 2017, and my Ph.D. degree in Electronic and Computer Engineering from The Hong Kong University of Science and Technology (HKUST) in 2021, under the supervision of [Prof. Ross Murch](https://eermurch.home.ece.ust.hk/) (IEEE Fellow). I worked as a Post-Doctoral Fellow at HKUST from 2021–2023, and a Research Fellow in the Department of Electrical and Computer Engineering at the National University of Singapore (NUS), supervised by [Prof. Xudong Chen](https://www.ece.nus.edu.sg/stfpage/elechenx/) (IEEE Fellow).
+<p>I received my Bachelor’s degree in Optoelectronic Information Science and Engineering from Huazhong University of Science and Technology in 2017, and my Ph.D. degree in Electronic and Computer Engineering from The Hong Kong University of Science and Technology (HKUST) in 2021, under the supervision of <a href="https://eermurch.home.ece.ust.hk/">Prof. Ross Murch</a> (IEEE Fellow).</p>
+
+<p>I worked as a Post-Doctoral Fellow at HKUST from 2021–2023, and a Research Fellow in the Department of Electrical and Computer Engineering at the National University of Singapore (NUS), supervised by <a href="https://www.ece.nus.edu.sg/stfpage/elechenx/">Prof. Xudong Chen</a> (IEEE Fellow).</p>
 
 <h2>Research Interests</h2>
 My research lies in antennas and applied electromagnetics, with a focus on creating novel electromagnetic technologies for a better world! My group’s research explores innovative areas such as:
