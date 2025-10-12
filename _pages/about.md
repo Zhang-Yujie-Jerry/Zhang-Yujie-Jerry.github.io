@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  /* 设置正文两端对齐 */
+  p, li {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
+
 
 I am currently an Assistant Professor at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
 
