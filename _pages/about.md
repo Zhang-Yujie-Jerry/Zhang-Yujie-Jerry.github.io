@@ -85,4 +85,19 @@ My research lies in antennas and applied electromagnetics, with a focus on creat
   <li>RF and Microwave Circuit Design</li>
   <li>Electromagnetic Inverse Design Problem</li>
   <li>Inverse Scattering and RF Imaging</li>
-  <li>RF Energy Harvestin
+  <li>RF Energy Harvesting and Wireless Power Transfer</li>
+  <li>Physics-Assisted Artificial Intelligence</li>
+  <li>6G Wireless Communications and Internet-of-Things (IoT) Systems</li>
+</ul>
+
+<h2>Openings</h2>
+<p>
+We have multiple PhD, Postdoctoral, and visiting student/scholar positions. We welcome self-motivated researchers to join our group!
+</p>
+
+<h2>Updates</h2>
+<ul class="square">
+  <li><strong>[10/2025]</strong> I joined Nanyang Technological University as an Assistant Professor.</li>
+</ul>
+
+</div>
