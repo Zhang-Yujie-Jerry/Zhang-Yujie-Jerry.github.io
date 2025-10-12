@@ -29,7 +29,7 @@ redirect_from:
 
   .yz-custom ul.square {
     list-style-type: square;  /* 方形实心符号 */
-    margin-left: 1.25em;
+    margin-left: 0em;
   }
 </style>
 
