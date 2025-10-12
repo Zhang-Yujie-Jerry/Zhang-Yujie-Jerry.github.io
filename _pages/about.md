@@ -9,45 +9,50 @@ redirect_from:
 
 <!-- ✅ Local style: only affects this page -->
 <style>
-  /* 整页容器 */
+  /* 页面全局字体与颜色 */
   .yz-custom {
-    font-family: "Times New Roman", Times, serif;
-    color: #000000; /* 全文黑色字体 */
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    color: #000000;
   }
 
-  /* 段落与列表两端对齐 */
+  /* 两端对齐设置 */
   .yz-custom p,
   .yz-custom li {
     text-align: justify;
     text-justify: inter-word;
   }
 
-  /* 页面与小标题字体统一为黑色 Times New Roman */
-  .page__title,
-  .yz-custom h1,
-  .yz-custom h2,
-  .yz-custom h3,
-  .yz-custom h4 {
-    color: #000000;
-    font-family: "Times New Roman", Times, serif;
+  /* 页面主标题颜色与字体 */
+  .page__title {
+    color: #1A237E; /* 深蓝色 */
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-weight: bold;
   }
 
-  /* 方形实心符号，无缩进 */
+  /* 小节标题颜色：亮眼红 */
+  .yz-custom h2 {
+    color: #C0392B; /* 舒适亮红 */
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-weight: bold;
+  }
+
+  /* 方形实心符号，左对齐 */
   .yz-custom ul.square {
     list-style-type: square;
     margin-left: 0;
     padding-left: 1em;
   }
 
-  /* 链接：黑色、无下划线 */
+  /* 链接样式：深蓝色，无下划线 */
   .yz-custom a {
-    color: #000000;
+    color: #1A237E; /* 深蓝色链接 */
     text-decoration: none;
+    font-weight: normal;
   }
 
-  /* 悬停时轻微变色可选（可去掉） */
+  /* 悬停效果：略亮蓝色 */
   .yz-custom a:hover {
-    color: #555555;
+    color: #3949AB;
   }
 </style>
 
@@ -80,19 +85,4 @@ My research lies in antennas and applied electromagnetics, with a focus on creat
   <li>RF and Microwave Circuit Design</li>
   <li>Electromagnetic Inverse Design Problem</li>
   <li>Inverse Scattering and RF Imaging</li>
-  <li>RF Energy Harvesting and Wireless Power Transfer</li>
-  <li>Physics-Assisted Artificial Intelligence</li>
-  <li>6G Wireless Communications and Internet-of-Things (IoT) Systems</li>
-</ul>
-
-<h2>Openings</h2>
-<p>
-We have multiple PhD, Postdoctoral, and visiting student/scholar positions. We welcome self-motivated researchers to join our group!
-</p>
-
-<h2>Updates</h2>
-<ul class="square">
-  <li><strong>[10/2025]</strong> I joined Nanyang Technological University as an Assistant Professor.</li>
-</ul>
-
-</div>
+  <li>RF Energy Harvestin
