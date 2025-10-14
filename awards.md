@@ -1,8 +1,4 @@
----
-layout: archive
-title: "Awards and Honors"
-permalink: /awards/
----
+
 
 <div style="font-family: Georgia, serif; color: black; line-height: 1.7;">
   <p style="margin: 0;"><span style="color: black; font-weight: bold;">■</span> 2024 IEEE AP-S Young Professional Ambassador.</p>
