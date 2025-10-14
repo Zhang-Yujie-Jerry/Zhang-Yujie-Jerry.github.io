@@ -1,5 +1,5 @@
 <div style="font-family: Georgia, serif; color: black; line-height: 1.9;">
-  <p style="margin: 4px 0;"><span style="color: black; font-weight: bold; margin-right: 8px;">■</span> IEEE AP-S Young Professional Ambassador, 2024.</p>
+  <p style="margin: 4px 0;"><span style="color: black; font-weight: bold; margin-right: 8px;">■</span> IEEE Antennas and Propagation Society Young Professional Ambassador, 2024.</p>
 
   <p style="margin: 4px 0;"><span style="color: black; font-weight: bold; margin-right: 8px;">■</span> Young Antenna Scientist Award (Best Paper), Singapore Workshop on Antennas, 2023.</p>
 
