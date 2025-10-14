@@ -46,7 +46,10 @@
 <!-- ===== 2) Journal Papers ===== -->
 <div class="yz-section">
   <h2>Journal Papers <span style="font-size:0.9em;color:#555;">(*Corresponding Author)</span></h2>
-  <ol class="reversed" reversed start="34">
+  <!-- 把原来的 <ol ...> 替换为这一行 -->
+<ol start="34" reversed style="margin-left: 20px;">
+  <!-- 这里按你现有顺序放 34, 33, 32, ... , 1 的 <li> -->
+</ol>
     <li><span class="yz-author">Y. Zhang</span> and X. Chen, “Design of Shared-Aperture Multi-Band MIMO Antenna Array by Scattering Minimization,” <em>IEEE Transactions on Antennas and Propagation</em>, 2025. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/abstract/document/11114785">[link]</a></li>
     <li>Z. Han, <span class="yz-author">Y. Zhang</span>* et al., “Orthonormal Beam-steering for Single-RF ESPAR,” <em>IEEE Antennas and Wireless Propagation Letters</em>, 2025. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/abstract/document/11197253">[link]</a></li>
     <li><span class="yz-author">Y. Zhang</span>, S. Tang, P. Yang, T. Yin and X. Chen, “An Integrated Radiating and Decoupling Surface for MIMO Antenna Array,” <em>IEEE Antennas and Wireless Propagation Letters</em>, 2025. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/document/11037480">[link]</a></li>
@@ -88,7 +91,11 @@
 <!-- ===== 3) Conference Papers ===== -->
 <div class="yz-section">
   <h2>Conference Papers</h2>
-  <ol class="reversed" reversed start="12">
+ <!-- 把原来的 <ol ...> 替换为这一行 -->
+<ol start="12" reversed style="margin-left: 20px;">
+  <!-- 这里按你现有顺序放 12, 11, 10, ... , 1 的 <li> -->
+</ol>
+
     <li>Z. Han, <span class="yz-author">Y. Zhang</span>, et al., “Characteristic Modes for Orthogonal Beamsteering Using ESPAR,” <em>2024 IEEE International Symposium on Antennas and Propagation and INC/USNC‐URSI Radio Science Meeting (AP-S/INC-USNC-URSI)</em>, Firenze, Italy, 2024. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10687073">[link]</a></li>
     <li><span class="yz-author">Y. Zhang</span>, S. Tang, J. Rao, C. Y. Chiu and R. Murch, “A Dual-Polarized Beam-Steerable Antenna Utilizing Complementary Reconfigurable Parasitic Elements,” <em>2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)</em>, Portland, OR, USA, 2023. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/document/10237651">[link]</a></li>
     <li>J. Rao, <span class="yz-author">Y. Zhang</span> and R. Murch, “A Reconfigurable Intelligent Surface for Arbitrary mm-Wave Polarization Using Parasitic Enhancing Structures,” <em>2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)</em>, Portland, OR, USA, 2023. <a class="yz-link" target="_blank" href="https://ieeexplore.ieee.org/document/10237585">[link]</a></li>
