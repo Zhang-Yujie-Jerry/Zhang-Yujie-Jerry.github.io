@@ -1,8 +1,8 @@
-<div style="font-family: Georgia, serif; color: black; line-height: 1.9; word-break: keep-all;">
+<div style="font-family: Georgia, Cambria, 'Times New Roman', serif; color: #000000; line-height: 1.9; word-break: keep-all;">
 
   <!-- ======= Editor ======= -->
-  <div style="background-color: #f9f9f9; padding: 16px 24px; margin-bottom: 20px; border-radius: 8px;">
-    <h3 style="color: #b30000; font-family: Georgia, serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #cccccc; padding-bottom: 4px;">
+  <div style="background-color: #f5f7fa; padding: 22px 30px; margin-bottom: 26px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 6px rgba(0,0,0,0.05); transition: all 0.25s ease-in-out;">
+    <h3 style="color: #B22222; font-family: Georgia, Cambria, 'Times New Roman', serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #d0d0d0; padding-bottom: 4px;">
       Editor
     </h3>
     <p style="margin: 6px 0;">
@@ -12,8 +12,8 @@
   </div>
 
   <!-- ======= Technical Program Committee Member ======= -->
-  <div style="background-color: #f9f9f9; padding: 16px 24px; margin-bottom: 20px; border-radius: 8px;">
-    <h3 style="color: #b30000; font-family: Georgia, serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #cccccc; padding-bottom: 4px;">
+  <div style="background-color: #f5f7fa; padding: 22px 30px; margin-bottom: 26px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 6px rgba(0,0,0,0.05); transition: all 0.25s ease-in-out;">
+    <h3 style="color: #B22222; font-family: Georgia, Cambria, 'Times New Roman', serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #d0d0d0; padding-bottom: 4px;">
       Technical Program Committee Member
     </h3>
     <p style="margin: 6px 0;">
@@ -31,8 +31,8 @@
   </div>
 
   <!-- ======= Journal Reviews ======= -->
-  <div style="background-color: #f9f9f9; padding: 16px 24px; margin-bottom: 10px; border-radius: 8px;">
-    <h3 style="color: #b30000; font-family: Georgia, serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #cccccc; padding-bottom: 4px;">
+  <div style="background-color: #f5f7fa; padding: 22px 30px; margin-bottom: 10px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 6px rgba(0,0,0,0.05); transition: all 0.25s ease-in-out;">
+    <h3 style="color: #B22222; font-family: Georgia, Cambria, 'Times New Roman', serif; margin-top: 0; margin-bottom: 10px; border-bottom: 1px solid #d0d0d0; padding-bottom: 4px;">
       Journal Reviews
     </h3>
 
@@ -52,4 +52,3 @@
   </div>
 
 </div>
-
