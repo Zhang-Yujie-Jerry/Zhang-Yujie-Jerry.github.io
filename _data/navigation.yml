@@ -9,12 +9,12 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /papers/
 
   - title: "Awards and Honors"
     url: /awards/    
 
   - title: "Professional Activities"
-    url: /teaching/    
+    url: /service/    
     
 
