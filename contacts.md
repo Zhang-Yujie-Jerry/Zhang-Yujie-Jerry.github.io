@@ -4,7 +4,7 @@
   </h2>
 
   <p style="margin: 6px 0;">
-    <strong>Office Address:</strong><br>
+    <strong>Address:</strong><br>
     S1-B1c-95, 50 Nanyang Avenue<br>
     School of Electrical and Electronic Engineering<br>
     Nanyang Technological University<br>
@@ -17,11 +17,14 @@
   </p>
 
   <div style="margin-top: 14px; text-align: center;">
-    <a href="https://www.google.com/maps/place/School+of+Electrical+and+Electronic+Engineering,+Nanyang+Technological+University/@1.347607,103.680031,18z" target="_blank" style="text-decoration: none;">
+    <a href="https://www.google.com/maps/place/School+of+Electrical+and+Electronic+Engineering+(EEE)/@1.3428802,103.6804328,19z/data=!4m6!3m5!1s0x31da0f75a53bec9d:0xd08547c621f6dca6!8m2!3d1.3430587!4d103.6805245!16s%2Fg%2F11bwkzbghn?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D" 
+       target="_blank" style="text-decoration: none;">
       <img src="/images/EEE.png"
-           alt="NTU EEE Location Map"
+           alt="NTU School of EEE Location Map"
            style="width: 100%; max-width: 600px; border-radius: 10px; border: 1px solid #d0d0d0; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     </a>
-    <p style="font-size: 0.9em; color: #333333; margin-top: 6px;">Click the map to open Google Maps location for NTU School of Electrical and Electronic Engineering</p>
+    <p style="font-size: 0.9em; color: #333333; margin-top: 6px;">
+      Click the map to open Google Maps location for NTU School of Electrical and Electronic Engineering (EEE)
+    </p>
   </div>
 </div>
