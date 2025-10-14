@@ -17,12 +17,11 @@
   </p>
 
   <div style="margin-top: 14px; text-align: center;">
-    <a href="https://www.google.com/maps/place/School+of+Electrical+and+Electronic+Engineering,+Nanyang+Technological+University/@1.347607,103.680031,17z" target="_blank" style="text-decoration: none;">
-      <img src="https://maps.googleapis.com/maps/api/staticmap?center=1.347607,103.680031&zoom=16&size=600x300&markers=color:red%7C1.347607,103.680031&key=YOUR_API_KEY" 
-           alt="NTU EEE Location Map" 
+    <a href="/images/ntu_eee_map.png" target="_blank" style="text-decoration: none;">
+      <img src="/images/EEE.png"
+           alt="NTU EEE Location Map"
            style="width: 100%; max-width: 600px; border-radius: 10px; border: 1px solid #d0d0d0; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     </a>
-    <p style="font-size: 0.9em; color: #333333; margin-top: 6px;">Click the map to open in Google Maps</p>
+    <p style="font-size: 0.9em; color: #333333; margin-top: 6px;">Click the map to enlarge</p>
   </div>
 </div>
-
