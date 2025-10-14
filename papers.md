@@ -7,7 +7,8 @@
     <span style="font-weight: bold;">Citations:</span> 1188.&nbsp;&nbsp;
     <span style="font-weight: bold;">H-index:</span> 18.&nbsp;&nbsp;
     <span style="font-weight: bold;">I10-index:</span> 27.&nbsp;&nbsp;
-    <span style="font-weight: bold;">Journal papers:</span> 34.&nbsp;&nbsp;
+    <span style="font-weight: bold;">Journal papers:</span> 34.
+    <br>
     <span style="font-weight: bold;">Conference papers:</span> 12.&nbsp;&nbsp;
     <span style="font-weight: bold;">US patent:</span> 1.
   </p>
@@ -19,4 +20,3 @@
     </a>.
   </p>
 </div>
-
