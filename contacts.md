@@ -4,7 +4,7 @@
   </h2>
 
   <p style="margin: 6px 0;">
-    <strong>Address:</strong><br>
+    <strong>Office Address:</strong><br>
     S1-B1c-95, 50 Nanyang Avenue<br>
     School of Electrical and Electronic Engineering<br>
     Nanyang Technological University<br>
