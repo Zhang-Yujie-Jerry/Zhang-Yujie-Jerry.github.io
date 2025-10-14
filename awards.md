@@ -48,7 +48,7 @@
   <p><span class="bullet">■</span> Young Antenna Scientist Award (Best Paper), Singapore Workshop on Antennas, 2023.</p>
   <p><span class="bullet">■</span> IEEE Antennas and Propagation Society Fellowship Program Award, 2023.</p>
   <p><span class="bullet">■</span> IEEE Antennas and Propagation Society TICRA Foundation Grant, 2023.</p>
-  <p><span class="bullet">■</span> HKTIIT Post-Graduate Excellence Scholarship, Hong Kong Telecom Institute of Information Technology, 2020.</p>
+  <p><span class="bullet">■</span> HKTIIT Post-Graduate Excellence Scholarship, 2020.</p>
   <p><span class="bullet">■</span> Full PhD Studentship, Hong Kong University of Science and Technology, 2017–2021.</p>
   <p><span class="bullet">■</span> Research Travel Grant, HKUST, 2018, 2020.</p>
   <p><span class="bullet">■</span> National Scholarship, Huazhong University of Science and Technology, 2017.</p>
