@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 🎨 Advanced aesthetic style -->
+<!-- 🎨 Final polished homepage design -->
 <style>
+  /* ===== 页面整体背景：高级渐变 ===== */
   body {
-    background-color: #fafafa; /* 微暖白整体背景 */
+    background: linear-gradient(180deg, #f3f5f8 0%, #ffffff 100%);
+    background-attachment: fixed;
   }
 
+  /* ===== 全局字体与文字样式 ===== */
   .yz-custom {
     font-family: Georgia, Cambria, "Times New Roman", serif;
     color: #000000;
@@ -24,16 +27,16 @@ redirect_from:
     text-justify: inter-word;
   }
 
-  /* 主标题 */
+  /* ===== 页面主标题 ===== */
   .page__title {
     color: #1A237E;
     font-family: Georgia, Cambria, "Times New Roman", serif;
     font-weight: bold;
   }
 
-  /* 小节标题 */
+  /* ===== 小节标题（亮红 + 下划线）===== */
   .yz-custom h2 {
-    color: #B22222; /* 深雅红 */
+    color: #B22222;
     font-family: Georgia, Cambria, "Times New Roman", serif;
     font-weight: bold;
     border-bottom: 1px solid #d0d0d0;
@@ -41,14 +44,14 @@ redirect_from:
     margin-top: 0;
   }
 
-  /* 方块符号列表 */
+  /* ===== 列表样式 ===== */
   .yz-custom ul.square {
     list-style-type: square;
     margin-left: 1em;
     padding-left: 1em;
   }
 
-  /* 链接 */
+  /* ===== 链接样式 ===== */
   .yz-custom a {
     color: #1A237E;
     text-decoration: none;
@@ -57,26 +60,34 @@ redirect_from:
     color: #3949AB;
   }
 
-  /* 区块整体样式 */
+  /* ===== 通用区块样式 ===== */
   .yz-section {
-    background-color: #f5f7fa; /* 柔和灰蓝调 */
-    padding: 20px 28px;
-    margin-bottom: 26px;
-    border-radius: 10px;
+    background-color: #f5f7fa; /* 柔和灰蓝 */
+    padding: 22px 30px;
+    margin-bottom: 28px;
+    border-radius: 12px;
     border: 1px solid #e0e0e0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
   }
 
-  /* Openings 特殊浅金背景 */
+  /* ===== Openings 专属色调（浅金）===== */
   .yz-section.openings {
-    background-color: #fff4d6;
-    border: 1px solid #e5d5b8;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    background-color: #fff3cd;
+    border: 1px solid #e5d6aa;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  }
+
+  /* ===== 区块悬浮微动效果 ===== */
+  .yz-section:hover {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    transform: translateY(-2px);
+    transition: all 0.25s ease-in-out;
   }
 </style>
 
 <div class="yz-custom">
 
+  <!-- ===== Intro Section ===== -->
   <div class="yz-section">
     <p>
       I am currently an Assistant Professor at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
@@ -93,6 +104,7 @@ redirect_from:
     </p>
   </div>
 
+  <!-- ===== Research Interests ===== -->
   <div class="yz-section">
     <h2>Research Interests</h2>
     <p>
@@ -113,6 +125,7 @@ redirect_from:
     </ul>
   </div>
 
+  <!-- ===== Openings ===== -->
   <div class="yz-section openings">
     <h2>Openings</h2>
     <p>
@@ -120,6 +133,7 @@ redirect_from:
     </p>
   </div>
 
+  <!-- ===== Updates ===== -->
   <div class="yz-section">
     <h2>Updates</h2>
     <ul class="square">
