@@ -7,7 +7,7 @@
     </h3>
     <p style="margin: 6px 0;">
       <span style="color: black; font-weight: bold; margin-right: 8px;">■</span>
-      Technical Program Committee and Session Chair, 2023 IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications, Chengdu, China.
+      Guest Editor, Electronics, Special Issue “Advanced Wireless Technologies for Next-G Networks: Antennas, Circuits, and Systems.
     </p>
   </div>
 
