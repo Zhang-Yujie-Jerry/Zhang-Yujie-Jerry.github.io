@@ -1,0 +1,16 @@
+# robots.txt for Zhang-Yujie-Jerry.github.io
+User-agent: *
+# 允许搜索引擎抓取主页和内容页
+Allow: /
+
+# 禁止搜索引擎抓取 GitHub 仓库相关路径
+Disallow: /edit/
+Disallow: /blob/
+Disallow: /commit/
+Disallow: /issues/
+Disallow: /pull/
+Disallow: /actions/
+Disallow: /tree/
+
+# 指定网站地图位置（见下方 sitemap.xml）
+Sitemap: https://Zhang-Yujie-Jerry.github.io/sitemap.xml
