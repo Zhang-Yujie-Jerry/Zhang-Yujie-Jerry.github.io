@@ -7,11 +7,11 @@
     </h3>
      <p style="margin: 6px 0;">
       <span style="color: black; font-weight: bold; margin-right: 8px;">■</span>
-      Guest Editor, IEEE Antennas and Wireless Propagation Letters, Special Issue “Advanced Fluid and Reconfigurable Antenna Designs for FAS in 6G and Beyond."
+      Guest Editor, IEEE Antennas and Wireless Propagation Letters, 2026 Special Issue “Advanced Fluid and Reconfigurable Antenna Designs for FAS in 6G and Beyond."
     </p>
     <p style="margin: 6px 0;">
       <span style="color: black; font-weight: bold; margin-right: 8px;">■</span>
-      Guest Editor, Electronics, Special Issue “Advanced Wireless Technologies for Next-G Networks: Antennas, Circuits, and Systems."
+      Guest Editor, Electronics, 2024 Special Issue “Advanced Wireless Technologies for Next-G Networks: Antennas, Circuits, and Systems."
     </p>
   </div>
 
