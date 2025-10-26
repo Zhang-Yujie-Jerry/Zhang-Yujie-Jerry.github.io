@@ -65,7 +65,7 @@
 
     <section id="overview" class="card">
       <h2 class="sect-title"><strong>Position Openings</strong> <span class="pill">Now Recruiting</span></h2>
-      <p class="lead">We are seeking passionate and self-driven individuals to join our research team as <strong>Postdoctoral Fellows</strong>, <strong>PhD Students</strong>, and <strong>Research Assistants</strong>. Multiple <strong>fully funded PhD scholarships</strong> and <strong>postdoctoral fellowships</strong> are currently available<span class="badge">Fully Funded</span>.</p>
+      <p class="lead">We are seeking passionate and self-motivated individuals to join our research team as <strong>Postdoctoral Fellows</strong>, <strong>PhD Students</strong>, and <strong>Research Assistants</strong>. Multiple <strong>fully funded PhD scholarships</strong> and <strong>postdoctoral fellowships</strong> are currently available<span class="badge">Fully Funded</span>.</p>
       <p>We also welcome visiting students, scholars, professors, and interns. Our team strives to provide a supportive environment for all visitors. Please refer to the details below for specific application guidance.</p>
       <p class="note"><strong>Note:</strong> Some scholarship names and application portals below are linked directly for your convenience.</p>
     </section>
