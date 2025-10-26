@@ -92,8 +92,8 @@
       <h2 class="sect-title"><strong>Postdoctoral Positions</strong></h2>
       <p>Postdoctoral fellows typically work with us for <strong>2–3 years</strong>, contributing to innovative research, publishing in top journals, generating new research directions, and mentoring students.</p>
       <ol>
-        <li>We seek outstanding candidates with expertise in antennas, electromagnetics, RF/microwave circuits, or AI-driven electromagnetic design. Strong analytical or experimental skills are advantageous. <em>Proven research performance is the key selection criterion.</em></li>
-        <li>Email your CV, a 1–3 page research statement or plan, and contact information of at least three referees to <a href="mailto:Yujie.zhang@ntu.edu.sg">Yujie.zhang@ntu.edu.sg</a>. Use the subject line: <code>Postdoc Application – Name – Affiliation</code>. <strong>Immediate openings are available.</strong></li>
+        <li>We seek outstanding candidates with expertise in antennas, electromagnetics, RF/microwave circuits, or AI-driven electromagnetic design. Strong analytical or experimental skills are advantageous. <em>The selection will primarily consider each applicant’s research record.</em></li>
+        <li>Email your CV, a 1–3 page research statement or plan, and contact information of at least three referees to <a href="mailto:yujie.zhang@ntu.edu.sg">yujie.zhang@ntu.edu.sg</a>. Use the subject line: <code>Postdoc Application – Name – Affiliation</code>. <strong>Immediate openings are available.</strong></li>
         <li>In addition to NTU-funded positions, applicants are encouraged to apply for prestigious fellowships, including:
           <ul>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-%28lkypdf%29" target="_blank">Lee Kuan Yew Postdoctoral Fellowship (LKYPDF)</a></li>
