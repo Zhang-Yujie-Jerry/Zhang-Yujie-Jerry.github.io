@@ -52,7 +52,7 @@
 <!-- ===== 1) Highlights of Publications ===== -->
 <div class="yz-section">
   <h2>Highlights of Publications</h2>
-  <p><b>Citations:</b> 1188.&nbsp;&nbsp;<b>H-index:</b> 18.&nbsp;&nbsp;<b>I10-index:</b> 27.<br>
+  <p><b>Citations:</b> 1206.&nbsp;&nbsp;<b>H-index:</b> 19.&nbsp;&nbsp;<b>I10-index:</b> 28.<br>
      <b>Journal papers:</b> 34.&nbsp;&nbsp;<b>Conference papers:</b> 12.&nbsp;&nbsp;<b>US patent:</b> 1.
   </p>
   <p>For the latest publications, please visit my
