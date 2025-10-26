@@ -1,32 +1,26 @@
-{% raw %}{% comment %}
-Custom dark masthead with NTU logo
-This overrides Minimal Mistakes' default masthead.
-{% endcomment %}
+{% include base_path %}
 
-<div class="mm-navwrap">
-  <div class="mm-navinner">
-
-    <!-- Brand (Logo + Site Title) -->
-    <a class="mm-nav-brand" href="{{ '/' | relative_url }}" aria-label="Home">
-      <img class="mm-nav-logo" src="{{ '/assets/images/ntu-logo.png' | relative_url }}" alt="NTU Logo">
-      <span class="mm-nav-title">{{ site.title | default: site.name }}</span>
-    </a>
-
-    <!-- Primary navigation: pulls items from _data/navigation.yml (AcademicPages默认用这份数据) -->
-    <nav class="mm-toc" aria-label="Primary navigation">
-      {% if site.data.navigation.main %}
-        {% for item in site.data.navigation.main %}
-          <a class="mm-toc-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% endfor %}
-      {% else %}
-        <!-- 兜底：如果没有设置 _data/navigation.yml，就显示几项常见页面 -->
-        <a class="mm-toc-link" href="{{ '/' | relative_url }}">Home</a>
-        <a class="mm-toc-link" href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a class="mm-toc-link" href="{{ '/teaching/' | relative_url }}">Teaching</a>
-        <a class="mm-toc-link" href="{{ '/openings/' | relative_url }}">Openings</a>
-        <a class="mm-toc-link" href="{{ '/contact/' | relative_url }}">Contact</a>
-      {% endif %}
-    </nav>
-
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+          <li id="theme-toggle" class="masthead__menu-item persist tail">
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+          </li>
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
   </div>
-</div>{% endraw %}
+</div>
