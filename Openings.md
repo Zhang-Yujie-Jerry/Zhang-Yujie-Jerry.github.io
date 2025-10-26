@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>EMPIX Lab — Position Openings</title>
+  <title>Position Openings</title>
   <style>
     :root{
       --accent:#B3002D;
@@ -10,7 +10,7 @@
       --ink:#1b1b1f;
       --muted:#60646c;
       --bg:#faf9f8;
-      --card:#ffffff;
+      --card:#f7f5f2;
       --stroke:#e8e6e3;
     }
     html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}    
@@ -20,11 +20,11 @@
     .page-title{font-size:40px; letter-spacing:.3px; margin:0 0 8px;}
     .page-sub{color:var(--muted); margin:0 0 28px; font-style:italic;}
 
-    .card{background:var(--card); border:1px solid var(--stroke); border-radius:18px; padding:28px; box-shadow:0 6px 22px rgba(0,0,0,.06);} 
+    .card{background:linear-gradient(180deg,#ffffff 0%, #f3f1ec 100%); border:1px solid var(--stroke); border-radius:18px; padding:28px; box-shadow:0 6px 22px rgba(0,0,0,.06);} 
     .card + .card{margin-top:22px;}
 
     .sect-title{margin:0 0 14px; font-size:26px; font-weight:700; color:var(--accent);} 
-    .sect-title .pill{display:inline-block; margin-left:8px; font-size:12px; font-weight:700; padding:2px 8px; border-radius:999px; border:1px solid var(--accent); color:var(--accent);} 
+    .sect-title .pill{display:inline-block; margin-left:8px; font-size:17px; font-weight:700; padding:3px 10px; border-radius:999px; border:1px solid var(--accent); color:var(--accent); background:#fff;} 
 
     ul, ol{padding-left:22px;}
     li{margin:6px 0;}
@@ -36,10 +36,10 @@
     .lead{font-size:18px;}
     .note{background:#fff4f6; border:1px dashed var(--accent); padding:12px 14px; border-radius:12px;}
 
-    .badge{display:inline-block; font-size:12px; padding:3px 10px; border-radius:999px; border:1px solid var(--stroke); background:#f6f8ff; margin-left:8px;}
+    .badge{display:inline-block; font-size:17px; font-weight:700; padding:4px 12px; border-radius:999px; border:1px solid var(--stroke); background:#fff; margin-left:8px;} 
 
     .toc{display:flex; gap:12px; flex-wrap:wrap; margin:14px 0 22px;}
-    .toc a{background:#fff; border:1px solid var(--stroke); border-radius:999px; padding:6px 12px; text-decoration:none;}
+    .toc a{background:linear-gradient(180deg,#ffffff 0%, #f5f3ef 100%); border:1px solid var(--stroke); border-radius:999px; padding:6px 12px; text-decoration:none; box-shadow:0 1px 0 rgba(0,0,0,.04);} 
 
     hr{border:0; border-top:1px solid var(--stroke); margin:24px 0;}
 
@@ -65,9 +65,9 @@
 
     <section id="overview" class="card">
       <h2 class="sect-title"><strong>Position Openings</strong> <span class="pill">Now Recruiting</span></h2>
-      <p class="lead">We are seeking passionate and self-driven individuals to join our research group as <strong>Postdoctoral Fellows</strong>, <strong>PhD Students</strong>, and <strong>Research Assistants</strong>. Multiple <strong>fully funded PhD scholarships</strong> and <strong>postdoctoral fellowships</strong> are currently available<span class="badge">Fully Funded</span>.</p>
+      <p class="lead">We are seeking passionate and self-driven individuals to join our research team as <strong>Postdoctoral Fellows</strong>, <strong>PhD Students</strong>, and <strong>Research Assistants</strong>. Multiple <strong>fully funded PhD scholarships</strong> and <strong>postdoctoral fellowships</strong> are currently available<span class="badge">Fully Funded</span>.</p>
       <p>We also welcome visiting students, scholars, professors, and interns. Our team strives to provide a supportive environment for all visitors. Please refer to the details below for specific application guidance.</p>
-      <p class="note"><strong>Note:</strong> All scholarship names and application portals below are linked directly for your convenience.</p>
+      <p class="note"><strong>Note:</strong> Some scholarship names and application portals below are linked directly for your convenience.</p>
     </section>
 
     <section id="phd" class="card">
@@ -98,7 +98,7 @@
           <ul>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-%28lkypdf%29" target="_blank">Lee Kuan Yew Postdoctoral Fellowship (LKYPDF)</a></li>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-%28ppf%29" target="_blank">Presidential Postdoctoral Fellowship (PPF)</a></li>
-            <li><a href="https://snas.org.sg/saseaf" target="_blank">SG Academies South‑East Asia Fellowship (ASEAN Fellowship)</a></li>
+            <li><a href="https://snas.org.sg/saseaf" target="_blank">SG Academies South-East Asia Fellowship (ASEAN Fellowship)</a></li>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/research-assistant-professorship-%28rap%29" target="_blank">Research Assistant Professorship (RAP)</a></li>
           </ul>
           These fellowships provide additional research support and competitive remuneration packages.
