@@ -58,7 +58,7 @@
         <a href="#overview">Overview</a>
         <a href="#phd">PhD Application</a>
         <a href="#postdoc">Postdoctoral Positions</a>
-        <a href="#ra">Research Assistantships</a>
+        <a href="#ra">Research Assistant</a>
         <a href="#visitors">Visiting Opportunities</a>
       </nav>
     </header>
@@ -107,7 +107,7 @@
     </section>
 
     <section id="ra" class="card">
-      <h2 class="sect-title"><strong>Research Assistantships</strong></h2>
+      <h2 class="sect-title"><strong>Research Assistant</strong></h2>
       <p>Research Assistants typically work with us for <strong>1–2 years</strong> on specific funded projects. Candidates with strong programming, data analysis, or prototyping experience are preferred. Experience with <em>wireless system prototyping (LoRa, Bluetooth, Zigbee, NI USRP, etc.)</em> will be a significant advantage.</p>
     </section>
 
