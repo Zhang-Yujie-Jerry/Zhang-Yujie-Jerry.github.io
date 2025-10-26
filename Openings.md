@@ -98,7 +98,7 @@
           <ul>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-%28lkypdf%29" target="_blank">Lee Kuan Yew Postdoctoral Fellowship (LKYPDF)</a></li>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-%28ppf%29" target="_blank">Presidential Postdoctoral Fellowship (PPF)</a></li>
-            <li><a href="https://snas.org.sg/saseaf" target="_blank">SG Academies South-East Asia Fellowship (ASEAN Fellowship)</a></li>
+            <li><a href="https://snas.org.sg/saseaf" target="_blank">SG Academies South-East Asia Fellowship (ASEA Fellowship)</a></li>
             <li><a href="https://www.ntu.edu.sg/research/research-careers/research-assistant-professorship-%28rap%29" target="_blank">Research Assistant Professorship (RAP)</a></li>
           </ul>
           These fellowships provide additional research support and competitive remuneration packages.
