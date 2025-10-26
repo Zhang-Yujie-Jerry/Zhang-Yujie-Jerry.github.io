@@ -52,7 +52,7 @@
 <body>
   <div class="wrap">
     <header>
-      <h1 class="page-title">Position Openings — EMPIX Lab</h1>
+      <h1 class="page-title">Position Openings</h1>
       <p class="page-sub">Join us in pioneering next-generation electromagnetic and RF technologies.</p>
       <nav class="toc" aria-label="On this page">
         <a href="#overview">Overview</a>
