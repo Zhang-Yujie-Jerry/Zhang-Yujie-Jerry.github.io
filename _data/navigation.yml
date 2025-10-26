@@ -16,6 +16,9 @@ main:
 
   - title: "Services"
     url: /services/    
+
+  - title: "Openings"
+    url: /Openings/   
     
   - title: "Contact"
     url: /contacts/   
