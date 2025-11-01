@@ -11,6 +11,10 @@
     </p>
     <p style="margin: 6px 0;">
       <span style="color: black; font-weight: bold; margin-right: 8px;">■</span>
+      Associate Editor, International Journal of Numerical Modelling: Electronic Networks, Devices and Fields (IJNM)."
+    </p>
+    <p style="margin: 6px 0;">
+      <span style="color: black; font-weight: bold; margin-right: 8px;">■</span>
       Guest Editor, Electronics, 2024 Special Issue “Advanced Wireless Technologies for Next-G Networks: Antennas, Circuits, and Systems."
     </p>
   </div>
