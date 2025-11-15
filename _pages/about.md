@@ -131,9 +131,10 @@ redirect_from:
     <p>
       We have multiple PhD, Postdoctoral, and visiting student/scholar positions. We welcome self-motivated researchers to join our group!
       
-      <li>NTU is ranked #12 globally in the QS World University Rankings 2026.
-      <li>The School of Electrical and Electronic Engineering (EEE) is ranked #1 globally by U.S. News and #4 worldwide by QS.
-        
+      NTU is ranked #12 globally in the QS World University Rankings 2026.
+      
+      The School of Electrical and Electronic Engineering (EEE) is ranked #1 globally by U.S. News and #4 worldwide by QS. 
+      
       By joining our research group, you will be part of a world-class ecosystem that integrates antenna technology, RF circuit design, and AI to explore next-generation wireless communication, sensing, and computing systems.
     </p>
   </div>
