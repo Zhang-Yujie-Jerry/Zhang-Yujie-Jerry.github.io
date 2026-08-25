@@ -2,7 +2,7 @@
 
 :root { --yz-font: "Inter", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
 html { font-family: var(--yz-font); }
-body { background: #f7f8fa; color: #20242d; font-family: var(--yz-font); font-size: 16px; font-weight: 400; line-height: 1.72; letter-spacing: -.006em; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+body { padding-top: 0 !important; background: #f7f8fa; color: #20242d; font-family: var(--yz-font); font-size: 16px; font-weight: 400; line-height: 1.72; letter-spacing: -.006em; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 button, input, select, textarea { font-family: var(--yz-font); }
 #main { max-width: 1240px; }
 #site-sidebar { display: none; }
@@ -10,7 +10,7 @@ button, input, select, textarea { font-family: var(--yz-font); }
 .preview-note { padding: 4px 16px; border-bottom: 1px solid #e9ebef; background: #f5f6f8; color: #7a808a; font: 10px/1.4 var(--yz-font); letter-spacing: .04em; text-align: center; }
 .masthead { position: relative; border-bottom: 1px solid rgba(23,22,92,.12); background: rgba(255,255,255,.96); box-shadow: 0 8px 26px rgba(20,30,55,.07); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
 .masthead::before { position: absolute; top: 0; right: 0; left: 0; height: 3px; background: linear-gradient(90deg, #b8242a 0 23%, #17165c 23% 100%); content: ""; }
-.masthead__inner-wrap { width: 100%; max-width: 1360px; min-height: 82px; margin: 0 auto; padding: 3px 22px 0; display: flex; align-items: center; gap: 22px; }
+.masthead__inner-wrap { width: 100%; max-width: 1360px; min-height: 82px; margin: 0 auto; padding: 3px 22px 0 32px; display: flex; align-items: center; gap: 22px; }
 .site-identity { min-width: 167px; flex: 0 0 167px; display: inline-flex; align-items: center; gap: 11px; color: #17165c !important; text-decoration: none !important; }
 .site-identity__mark { position: relative; width: 40px; height: 40px; flex: 0 0 40px; overflow: hidden; border-radius: 10px; background: linear-gradient(145deg, #17165c, #315f85); box-shadow: 0 7px 16px rgba(23,22,92,.18); }
 .site-identity__mark::after { position: absolute; inset: 6px; border: 1px solid rgba(255,255,255,.16); border-radius: 7px; content: ""; }
