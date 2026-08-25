@@ -19,12 +19,15 @@ button, input, select, textarea { font-family: var(--yz-font); }
 .site-identity__mark i:nth-child(2) { top: 17px; animation-delay: -1.1s; }
 .site-identity__mark i:nth-child(3) { top: 24px; animation-delay: -2.2s; }
 .site-identity__copy { display: flex; flex-direction: column; min-width: 104px; }
-.site-identity__copy strong { color: #17165c; font-size: 18px; font-weight: 700; line-height: 1.15; letter-spacing: -.015em; }
+.site-identity__copy strong { color: #17165c; font-size: 19px; font-weight: 700; line-height: 1.15; letter-spacing: -.015em; }
 .site-identity__copy small { margin-top: 3px; color: #6f7480; font-size: 10px; font-weight: 600; line-height: 1.1; letter-spacing: .11em; text-transform: uppercase; }
 .masthead__menu { min-width: 0; flex: 1 1 auto; }
 .masthead .greedy-nav { background: transparent; }
-.masthead .greedy-nav .visible-links { margin-left: auto; }
-.masthead__menu-item a { position: relative; padding-right: .78em !important; padding-left: .78em !important; color: #353b47 !important; font-size: 14px; font-weight: 600; letter-spacing: -.01em; }
+.masthead .greedy-nav > button { display: none !important; }
+.masthead .greedy-nav .hidden-links { display: none !important; }
+.masthead .greedy-nav .visible-links { display: flex !important; width: 100%; margin-left: auto; justify-content: flex-end; overflow: visible; }
+.masthead__menu-item { flex: 0 0 auto; }
+.masthead__menu-item a { position: relative; padding-right: .72em !important; padding-left: .72em !important; color: #353b47 !important; font-size: 15px; font-weight: 600; letter-spacing: -.01em; white-space: nowrap; }
 .masthead__menu-item a:hover { color: #17165c !important; }
 .visible-links .masthead__menu-item.is-active a { color: #17165c !important; }
 .visible-links .masthead__menu-item.is-active a::after { position: absolute; right: .78em; bottom: .62em; left: .78em; height: 2px; border-radius: 2px; background: #b8242a; content: ""; }
@@ -279,7 +282,7 @@ body[data-page="team"] .page__title { margin: 24px 0 52px; padding: 28px 20px; b
 @media (max-width: 1020px) {
   .masthead__inner-wrap { gap: 18px; }
   .site-identity__copy small { display: none; }
-  .masthead__menu-item a { padding-right: .62em !important; padding-left: .62em !important; font-size: 13px; }
+  .masthead__menu-item a { padding-right: .56em !important; padding-left: .56em !important; font-size: 14px; }
 }
 
 @media (max-width: 680px) {
@@ -294,9 +297,10 @@ body[data-page="team"] .page__title { margin: 24px 0 52px; padding: 28px 20px; b
   .masthead__menu { overflow-x: auto; scrollbar-width: none; }
   .masthead__menu::-webkit-scrollbar { display: none; }
   .masthead .greedy-nav { min-width: max-content; }
-  .masthead .greedy-nav button { display: none; }
+  .masthead .greedy-nav button { display: none !important; }
   .masthead .greedy-nav .visible-links { display: flex !important; overflow: visible; }
   .masthead .greedy-nav .hidden-links { display: none !important; }
+  .masthead__menu-item a { font-size: 14px; }
   .page { padding-right: 18px; padding-left: 18px; }
   body:not([data-page="home"]) .page__inner-wrap > header { min-height: 128px; margin: 18px 0 36px; padding: 24px; }
   .section-banner__art { opacity: .78; transform: scale(.88); transform-origin: center; }
