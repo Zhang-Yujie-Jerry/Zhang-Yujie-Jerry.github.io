@@ -210,7 +210,7 @@ body[data-page="home"] .page { width: 100%; float: none; padding-right: 4%; padd
 .lab-banner::after { position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: rgba(255,255,255,.7); content: ""; }
 .lab-banner__photo { background-position: center; background-repeat: no-repeat; background-size: cover; }
 .lab-banner__photo--singapore { background-image: url("assets/singapore-daytime-v2.png"); }
-.lab-banner__photo--ntu { background-image: url("assets/ntu-hive.jpg"); }
+.lab-banner__photo--ntu { background-image: url("assets/ntu-hive-daylight.png"); }
 
 .lab-quick-links { margin-top: 20px; display: flex; justify-content: center; font-family: var(--yz-font); font-size: 13px; font-weight: 700; }
 .lab-quick-links a, .lab-quick-links a:first-child { padding: 10px 18px; border: 0; border-radius: 3px; background: #17165c; color: #fff; }
